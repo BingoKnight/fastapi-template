@@ -1,0 +1,12 @@
+[run]
+omit =
+    */.cache/pypoetry/*
+    .venv/*
+    */tests/*
+
+[report]
+omit =
+    */.cache/pypoetry/*
+    .venv/*
+    */tests/*
+skip_empty = true
